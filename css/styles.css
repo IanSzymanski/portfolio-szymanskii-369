@@ -113,7 +113,7 @@
     box-shadow: var(--Drop-Shadow);
     object-fit: cover;
     height: auto;
-    max-width: 35rem;
+    max-width: 40rem;
   }
   
   h1 span,
