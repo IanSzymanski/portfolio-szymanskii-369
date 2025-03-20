@@ -70,7 +70,7 @@
   }
   
   h1 {
-    font-family: "Owners Wide", sans-serif;
+    font-family: "owners-wide", sans-serif;
     font-size: 8rem;
     font-weight: 700;
     line-height: 100%;
@@ -78,21 +78,21 @@
   
   h2 {
     text-align: right;
-    font-family: "Owners Wide", sans-serif;
+    font-family: "owners-wide", sans-serif;
     font-size: 6rem;
     font-weight: 700;
     line-height: 100%;
   }
   
   h3 {
-    font-family: "Owners Wide", sans-serif;
+    font-family: "owners-wide", sans-serif;
     font-size: 1rem;
     font-style: italic;
     font-weight: 800;
   }
   
   h4 {
-    font-family: "Inter", sans-serif;
+    font-family: "inter", sans-serif;
     font-size: 2rem;
     font-weight: 700;
     max-width: 39.375rem;
@@ -166,7 +166,7 @@
     background: var(--Button-Gradient);
     color: var(--Black-Hole);
     text-align: center;
-    font-family: "Owners XWide", sans-serif;
+    font-family: "owners-xwide", sans-serif;
     font-size: 2vw;
     font-style: italic;
     font-weight: 800;
