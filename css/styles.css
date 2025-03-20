@@ -108,11 +108,12 @@
     gap: 5.5rem;
   }
   
+  
   .site-picture {
     box-shadow: var(--Drop-Shadow);
     object-fit: cover;
-    max-width: 50%;
     height: auto;
+    max-width: 50%;
   }
   
   h1 span,
@@ -261,8 +262,8 @@
       align-items: center;
       width: 90%;
     }
-  
-    .item-1 {
+    
+  .item-1 {
       order: 2;
     }
     .item-2 {
@@ -276,6 +277,9 @@
   
     h2 {
       font-size: 4rem;
+    }
+  
+    .right {
       align-self: flex-end;
     }
     
@@ -291,14 +295,13 @@
       margin-bottom: -2rem;
     }
     .site-picture {
-        max-width: 90%;
-      }
+      max-width: 90%;
+    }
   }
   @media (max-width: 800px) {
     nav {
       justify-content: space-around;
     }
-    
   
     h3 {
       font-size: 0.75rem;
